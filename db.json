@@ -1,0 +1,76 @@
+{
+    "data": [
+        {
+            "id": "FP3451",
+            "tl_code": "TL2391",
+            "branch_code": "B36",
+            "attributes": {
+                "name": "John Doe",
+                "role": "Financial Planner",
+                "Birthday": "19.02.1994",
+                "City": "Colombo",
+                "Address": "89 Maliban Street, 11",
+                "NIC": "199465906402"
+            }
+        }
+    ],
+    "status": [
+        {
+            "status": "active"
+        }
+    ],
+    "customers": [
+        {
+            "CUST12672": {
+                "data": {
+                    "name": "John Doe",
+                    "dob": "14.06.1978",
+                    "nic": "197865906402",
+                    "gender": "Male",
+                    "city": "Nugegoda",
+                    "address": "130, S De S Jayasingha Mawath",
+                    "ph": "0112816559",
+                    "job": "Doctor",
+                    "income": "219988",
+                    "marriageStatus": "Married",
+                    "noOfChildren": "02",
+                    "visitDate": "02.03.2024",
+                    "specialNotes": "Meet at the Nugegoda Perera & Sons at 7 AM",
+                    "addedDate": "17.02.2024"
+                },
+                "stars": {
+                    "stars": "5"
+                },
+                "status": {
+                    "policyId": "",
+                    "status": ""
+                }
+            },
+            "CUST12673": {
+                "data": {
+                    "name": "John Doe",
+                    "dob": "14.06.1978",
+                    "nic": "197865906402",
+                    "gender": "Male",
+                    "city": "Nugegoda",
+                    "address": "130, S De S Jayasingha Mawath",
+                    "ph": "0112816559",
+                    "job": "Doctor",
+                    "income": "219988",
+                    "marriageStatus": "Married",
+                    "noOfChildren": "02",
+                    "visitDate": "02.03.2024",
+                    "specialNotes": "Meet at the Nugegoda Perera & Sons at 7 AM",
+                    "addedDate": "17.02.2024"
+                },
+                "stars": {
+                    "stars": "5"
+                },
+                "status": {
+                    "policyId": "",
+                    "status": ""
+                }
+            }
+        }
+    ]
+}
